@@ -1,0 +1,628 @@
+﻿VAR,Variable,UNIT,Measure,COU,Country,YEA,Year,Physicians,Flag Codes,Flags
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUS,Australia,2000,2000,2.49,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUS,Australia,2001,2001,2.56,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUS,Australia,2002,2002,2.56,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUS,Australia,2003,2003,2.63,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUS,Australia,2004,2004,2.71,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUS,Australia,2005,2005,2.78,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUS,Australia,2006,2006,2.84,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUS,Australia,2007,2007,3.01,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUS,Australia,2008,2008,3.02,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUS,Australia,2009,2009,3.12,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUS,Australia,2011,2011,3.32,E; B,Estimated value; Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUS,Australia,2012,2012,3.31,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUS,Australia,2013,2013,3.37,E; B,Estimated value; Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUS,Australia,2014,2014,3.45,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUS,Australia,2015,2015,3.51,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUS,Australia,2016,2016,3.58,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUS,Australia,2017,2017,3.68,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUT,Austria,2000,2000,3.85,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUT,Austria,2001,2001,3.96,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUT,Austria,2002,2002,4.03,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUT,Austria,2003,2003,4.11,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUT,Austria,2004,2004,4.2,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUT,Austria,2005,2005,4.32,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUT,Austria,2006,2006,4.45,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUT,Austria,2007,2007,4.54,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUT,Austria,2008,2008,4.6,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUT,Austria,2009,2009,4.69,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUT,Austria,2010,2010,4.8,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUT,Austria,2011,2011,4.84,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUT,Austria,2012,2012,4.9,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUT,Austria,2013,2013,4.99,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUT,Austria,2014,2014,5.05,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUT,Austria,2015,2015,5.09,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUT,Austria,2016,2016,5.13,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),AUT,Austria,2017,2017,5.18,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BEL,Belgium,2000,2000,2.83,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BEL,Belgium,2001,2001,2.85,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BEL,Belgium,2002,2002,2.86,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BEL,Belgium,2003,2003,2.86,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BEL,Belgium,2004,2004,2.87,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BEL,Belgium,2005,2005,2.87,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BEL,Belgium,2006,2006,2.89,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BEL,Belgium,2007,2007,2.91,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BEL,Belgium,2008,2008,2.92,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BEL,Belgium,2009,2009,2.92,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BEL,Belgium,2010,2010,2.92,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BEL,Belgium,2011,2011,2.92,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BEL,Belgium,2012,2012,2.93,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BEL,Belgium,2013,2013,2.96,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BEL,Belgium,2014,2014,2.98,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BEL,Belgium,2015,2015,3.02,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BEL,Belgium,2016,2016,3.07,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BEL,Belgium,2017,2017,3.08,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CAN,Canada,2000,2000,2.01,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CAN,Canada,2001,2001,2.01,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CAN,Canada,2002,2002,2.02,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CAN,Canada,2003,2003,2.02,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CAN,Canada,2004,2004,2.04,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CAN,Canada,2005,2005,2.07,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CAN,Canada,2006,2006,2.08,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CAN,Canada,2007,2007,2.12,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CAN,Canada,2008,2008,2.17,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CAN,Canada,2009,2009,2.24,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CAN,Canada,2010,2010,2.28,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CAN,Canada,2011,2011,2.35,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CAN,Canada,2012,2012,2.41,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CAN,Canada,2013,2013,2.46,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CAN,Canada,2014,2014,2.5,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CAN,Canada,2015,2015,2.55,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CAN,Canada,2016,2016,2.61,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CAN,Canada,2017,2017,2.65,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CAN,Canada,2018,2018,2.69,P,Provisional value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CZE,Czech Republic,2000,2000,3.37,B,Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CZE,Czech Republic,2001,2001,3.45,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CZE,Czech Republic,2002,2002,3.51,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CZE,Czech Republic,2003,2003,3.53,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CZE,Czech Republic,2004,2004,3.52,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CZE,Czech Republic,2005,2005,3.56,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CZE,Czech Republic,2006,2006,3.57,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CZE,Czech Republic,2007,2007,3.57,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CZE,Czech Republic,2008,2008,3.56,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CZE,Czech Republic,2009,2009,3.58,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CZE,Czech Republic,2010,2010,3.6,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CZE,Czech Republic,2011,2011,3.64,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CZE,Czech Republic,2012,2012,3.67,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CZE,Czech Republic,2013,2013,3.69,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DNK,Denmark,2000,2000,2.91,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DNK,Denmark,2001,2001,2.93,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DNK,Denmark,2002,2002,3.04,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DNK,Denmark,2003,2003,3.08,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DNK,Denmark,2004,2004,3.23,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DNK,Denmark,2005,2005,3.33,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DNK,Denmark,2006,2006,3.42,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DNK,Denmark,2007,2007,3.46,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DNK,Denmark,2008,2008,3.58,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DNK,Denmark,2009,2009,3.65,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DNK,Denmark,2010,2010,3.73,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DNK,Denmark,2011,2011,3.79,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DNK,Denmark,2012,2012,3.84,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DNK,Denmark,2013,2013,3.85,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DNK,Denmark,2014,2014,3.88,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DNK,Denmark,2015,2015,3.93,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DNK,Denmark,2016,2016,4,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FIN,Finland,2000,2000,2.5,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FIN,Finland,2001,2001,2.5,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FIN,Finland,2002,2002,2.53,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FIN,Finland,2003,2003,2.56,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FIN,Finland,2004,2004,2.59,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FIN,Finland,2005,2005,2.63,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FIN,Finland,2006,2006,2.68,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FIN,Finland,2007,2007,2.69,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FIN,Finland,2008,2008,2.72,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FIN,Finland,2009,2009,2.83,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FIN,Finland,2010,2010,2.99,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FIN,Finland,2011,2011,2.99,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FIN,Finland,2012,2012,3.07,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FIN,Finland,2013,2013,3.15,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FIN,Finland,2014,2014,3.21,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FRA,France,2000,2000,3.02,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FRA,France,2001,2001,3.05,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FRA,France,2002,2002,3.07,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FRA,France,2003,2003,3.08,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FRA,France,2004,2004,3.1,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FRA,France,2005,2005,3.1,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FRA,France,2006,2006,3.09,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FRA,France,2007,2007,3.07,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FRA,France,2008,2008,3.07,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FRA,France,2009,2009,3.03,E; B,Estimated value; Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FRA,France,2010,2010,3.04,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FRA,France,2011,2011,3.07,B,Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FRA,France,2012,2012,3.08,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FRA,France,2013,2013,3.1,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FRA,France,2014,2014,3.11,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FRA,France,2015,2015,3.12,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FRA,France,2016,2016,3.14,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FRA,France,2017,2017,3.16,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),FRA,France,2018,2018,3.17,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DEU,Germany,2000,2000,3.25,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DEU,Germany,2001,2001,3.29,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DEU,Germany,2002,2002,3.32,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DEU,Germany,2003,2003,3.35,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DEU,Germany,2004,2004,3.37,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DEU,Germany,2005,2005,3.4,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DEU,Germany,2006,2006,3.44,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DEU,Germany,2007,2007,3.49,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DEU,Germany,2008,2008,3.54,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DEU,Germany,2009,2009,3.62,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DEU,Germany,2010,2010,3.71,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DEU,Germany,2011,2011,3.88,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DEU,Germany,2012,2012,3.95,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DEU,Germany,2013,2013,4.04,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DEU,Germany,2014,2014,4.11,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DEU,Germany,2015,2015,4.14,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DEU,Germany,2016,2016,4.19,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),DEU,Germany,2017,2017,4.25,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),HUN,Hungary,2000,2000,2.68,E; B,Estimated value; Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),HUN,Hungary,2001,2001,2.89,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),HUN,Hungary,2002,2002,3.19,B,Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),HUN,Hungary,2003,2003,3.25,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),HUN,Hungary,2004,2004,3.34,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),HUN,Hungary,2005,2005,2.78,B,Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),HUN,Hungary,2006,2006,3.04,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),HUN,Hungary,2007,2007,2.8,B,Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),HUN,Hungary,2008,2008,3.09,B,Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),HUN,Hungary,2009,2009,3.02,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),HUN,Hungary,2010,2010,2.87,B,Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),HUN,Hungary,2011,2011,2.96,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),HUN,Hungary,2012,2012,3.09,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),HUN,Hungary,2013,2013,3.21,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),HUN,Hungary,2014,2014,3.32,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),HUN,Hungary,2015,2015,3.1,B,Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),HUN,Hungary,2016,2016,3.21,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),HUN,Hungary,2017,2017,3.32,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISL,Iceland,2000,2000,3.44,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISL,Iceland,2001,2001,3.47,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISL,Iceland,2002,2002,3.58,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISL,Iceland,2003,2003,3.62,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISL,Iceland,2004,2004,3.62,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISL,Iceland,2005,2005,3.61,B,Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISL,Iceland,2006,2006,3.6,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISL,Iceland,2007,2007,3.61,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISL,Iceland,2008,2008,3.64,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISL,Iceland,2009,2009,3.65,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISL,Iceland,2010,2010,3.59,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISL,Iceland,2011,2011,3.5,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISL,Iceland,2012,2012,3.56,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISL,Iceland,2013,2013,3.61,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISL,Iceland,2014,2014,3.64,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISL,Iceland,2015,2015,3.78,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISL,Iceland,2016,2016,3.85,B,Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISL,Iceland,2017,2017,3.87,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISL,Iceland,2018,2018,3.94,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),IRL,Ireland,2011,2011,2.67,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),IRL,Ireland,2012,2012,2.71,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),IRL,Ireland,2013,2013,2.67,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),IRL,Ireland,2014,2014,2.79,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),IRL,Ireland,2015,2015,2.86,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),IRL,Ireland,2016,2016,2.94,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),IRL,Ireland,2017,2017,3.07,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),IRL,Ireland,2018,2018,3.18,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ITA,Italy,2000,2000,3.44,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ITA,Italy,2001,2001,3.51,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ITA,Italy,2002,2002,3.57,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ITA,Italy,2003,2003,3.63,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ITA,Italy,2004,2004,3.7,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ITA,Italy,2005,2005,3.72,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ITA,Italy,2006,2006,3.72,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ITA,Italy,2007,2007,3.8,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ITA,Italy,2008,2008,3.79,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ITA,Italy,2009,2009,3.79,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ITA,Italy,2010,2010,3.82,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ITA,Italy,2011,2011,3.9,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ITA,Italy,2012,2012,3.87,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ITA,Italy,2013,2013,3.9,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ITA,Italy,2014,2014,3.88,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ITA,Italy,2015,2015,3.84,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ITA,Italy,2016,2016,3.95,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ITA,Italy,2017,2017,3.99,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ITA,Italy,2018,2018,3.99,P,Provisional value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),JPN,Japan,2000,2000,1.93,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),JPN,Japan,2002,2002,1.98,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),JPN,Japan,2004,2004,2.03,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),JPN,Japan,2006,2006,2.08,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),JPN,Japan,2008,2008,2.15,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),JPN,Japan,2010,2010,2.21,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),JPN,Japan,2012,2012,2.29,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),JPN,Japan,2014,2014,2.36,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),JPN,Japan,2016,2016,2.43,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),KOR,Korea,2000,2000,1.3,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),KOR,Korea,2001,2001,1.39,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),KOR,Korea,2002,2002,1.49,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),KOR,Korea,2003,2003,1.57,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),KOR,Korea,2004,2004,1.56,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),KOR,Korea,2005,2005,1.63,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),KOR,Korea,2006,2006,1.69,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),KOR,Korea,2007,2007,1.73,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),KOR,Korea,2008,2008,1.85,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),KOR,Korea,2009,2009,1.92,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),KOR,Korea,2010,2010,1.98,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),KOR,Korea,2011,2011,2.03,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),KOR,Korea,2012,2012,2.07,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),KOR,Korea,2013,2013,2.16,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),KOR,Korea,2014,2014,2.2,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),KOR,Korea,2015,2015,2.24,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),KOR,Korea,2016,2016,2.29,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),KOR,Korea,2017,2017,2.34,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LUX,Luxembourg,2000,2000,2.15,B,Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LUX,Luxembourg,2001,2001,2.21,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LUX,Luxembourg,2002,2002,2.26,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LUX,Luxembourg,2003,2003,2.38,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LUX,Luxembourg,2004,2004,2.42,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LUX,Luxembourg,2005,2005,2.55,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LUX,Luxembourg,2006,2006,2.61,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LUX,Luxembourg,2007,2007,2.68,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LUX,Luxembourg,2008,2008,2.72,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LUX,Luxembourg,2009,2009,2.7,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LUX,Luxembourg,2010,2010,2.77,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LUX,Luxembourg,2011,2011,2.78,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LUX,Luxembourg,2012,2012,2.81,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LUX,Luxembourg,2013,2013,2.83,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LUX,Luxembourg,2014,2014,2.88,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LUX,Luxembourg,2015,2015,2.91,B,Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LUX,Luxembourg,2016,2016,2.88,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LUX,Luxembourg,2017,2017,2.98,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),MEX,Mexico,2000,2000,1.59,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),MEX,Mexico,2001,2001,1.49,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),MEX,Mexico,2002,2002,1.5,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),MEX,Mexico,2003,2003,1.55,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),MEX,Mexico,2004,2004,1.63,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),MEX,Mexico,2005,2005,1.75,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),MEX,Mexico,2006,2006,1.87,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),MEX,Mexico,2007,2007,1.91,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),MEX,Mexico,2008,2008,1.94,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),MEX,Mexico,2009,2009,1.97,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),MEX,Mexico,2010,2010,2,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),MEX,Mexico,2011,2011,2.1,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),MEX,Mexico,2012,2012,2.12,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),MEX,Mexico,2013,2013,2.17,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),MEX,Mexico,2014,2014,2.25,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),MEX,Mexico,2015,2015,2.35,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),MEX,Mexico,2016,2016,2.36,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),MEX,Mexico,2017,2017,2.43,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NLD,Netherlands,2014,2014,3.42,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NLD,Netherlands,2015,2015,3.49,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NLD,Netherlands,2016,2016,3.54,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NLD,Netherlands,2017,2017,3.58,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NZL,New Zealand,2000,2000,2.23,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NZL,New Zealand,2001,2001,2.19,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NZL,New Zealand,2002,2002,2.13,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NZL,New Zealand,2003,2003,2.17,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NZL,New Zealand,2004,2004,2.19,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NZL,New Zealand,2005,2005,2.11,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NZL,New Zealand,2006,2006,2.27,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NZL,New Zealand,2007,2007,2.3,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NZL,New Zealand,2008,2008,2.46,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NZL,New Zealand,2009,2009,2.58,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NZL,New Zealand,2010,2010,2.62,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NZL,New Zealand,2011,2011,2.65,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NZL,New Zealand,2012,2012,2.72,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NZL,New Zealand,2013,2013,2.83,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NZL,New Zealand,2014,2014,2.9,E; B,Estimated value; Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NZL,New Zealand,2015,2015,3.04,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NZL,New Zealand,2016,2016,3.13,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NZL,New Zealand,2017,2017,3.27,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NZL,New Zealand,2018,2018,3.33,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NOR,Norway,2000,2000,3.38,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NOR,Norway,2001,2001,3.54,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NOR,Norway,2002,2002,3.27,B,Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NOR,Norway,2003,2003,3.28,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NOR,Norway,2004,2004,3.44,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NOR,Norway,2005,2005,3.62,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NOR,Norway,2006,2006,3.79,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NOR,Norway,2007,2007,3.9,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NOR,Norway,2008,2008,4,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NOR,Norway,2009,2009,4.05,B,Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NOR,Norway,2010,2010,4.11,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NOR,Norway,2011,2011,4.19,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NOR,Norway,2012,2012,4.23,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NOR,Norway,2013,2013,4.31,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NOR,Norway,2014,2014,4.43,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NOR,Norway,2015,2015,4.4,B,Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NOR,Norway,2016,2016,4.51,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NOR,Norway,2017,2017,4.66,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),NOR,Norway,2018,2018,4.82,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),POL,Poland,2000,2000,2.22,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),POL,Poland,2001,2001,2.27,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),POL,Poland,2002,2002,2.3,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),POL,Poland,2003,2003,2.43,B,Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),POL,Poland,2004,2004,2.29,B,Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),POL,Poland,2005,2005,2.14,B,Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),POL,Poland,2006,2006,2.18,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),POL,Poland,2007,2007,2.19,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),POL,Poland,2008,2008,2.16,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),POL,Poland,2009,2009,2.17,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),POL,Poland,2010,2010,2.19,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),POL,Poland,2011,2011,2.21,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),POL,Poland,2012,2012,2.23,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),POL,Poland,2013,2013,2.24,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),POL,Poland,2014,2014,2.31,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),POL,Poland,2015,2015,2.33,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),POL,Poland,2016,2016,2.42,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),POL,Poland,2017,2017,2.38,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SVK,Slovak Republic,2000,2000,3.23,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SVK,Slovak Republic,2001,2001,3.22,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SVK,Slovak Republic,2002,2002,3.2,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SVK,Slovak Republic,2003,2003,3.15,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SVK,Slovak Republic,2004,2004,3.15,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ESP,Spain,2000,2000,3.14,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ESP,Spain,2001,2001,3.14,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ESP,Spain,2002,2002,3.13,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ESP,Spain,2003,2003,3.22,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ESP,Spain,2004,2004,3.44,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ESP,Spain,2005,2005,3.55,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ESP,Spain,2006,2006,3.62,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ESP,Spain,2007,2007,3.56,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ESP,Spain,2008,2008,3.54,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ESP,Spain,2009,2009,3.6,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ESP,Spain,2010,2010,3.76,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ESP,Spain,2011,2011,3.84,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ESP,Spain,2012,2012,3.82,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ESP,Spain,2013,2013,3.81,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ESP,Spain,2014,2014,3.8,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ESP,Spain,2015,2015,3.85,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ESP,Spain,2016,2016,3.82,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ESP,Spain,2017,2017,3.88,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SWE,Sweden,2000,2000,3.08,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SWE,Sweden,2001,2001,3.18,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SWE,Sweden,2002,2002,3.28,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SWE,Sweden,2003,2003,3.35,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SWE,Sweden,2004,2004,3.44,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SWE,Sweden,2005,2005,3.51,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SWE,Sweden,2006,2006,3.6,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SWE,Sweden,2007,2007,3.68,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SWE,Sweden,2008,2008,3.74,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SWE,Sweden,2009,2009,3.81,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SWE,Sweden,2010,2010,3.88,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SWE,Sweden,2011,2011,3.96,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SWE,Sweden,2012,2012,4.05,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SWE,Sweden,2013,2013,4.13,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SWE,Sweden,2014,2014,4.2,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SWE,Sweden,2015,2015,4.27,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SWE,Sweden,2016,2016,4.12,B,Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHE,Switzerland,2003,2003,3.65,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHE,Switzerland,2004,2004,3.69,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHE,Switzerland,2005,2005,3.74,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHE,Switzerland,2006,2006,3.79,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHE,Switzerland,2007,2007,3.78,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHE,Switzerland,2008,2008,3.82,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHE,Switzerland,2009,2009,3.83,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHE,Switzerland,2010,2010,3.81,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHE,Switzerland,2011,2011,3.83,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHE,Switzerland,2012,2012,3.92,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHE,Switzerland,2013,2013,4.04,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHE,Switzerland,2014,2014,4.13,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHE,Switzerland,2015,2015,4.2,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHE,Switzerland,2016,2016,4.25,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHE,Switzerland,2017,2017,4.3,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),GBR,United Kingdom,2000,2000,1.98,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),GBR,United Kingdom,2001,2001,2.03,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),GBR,United Kingdom,2002,2002,2.1,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),GBR,United Kingdom,2003,2003,2.19,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),GBR,United Kingdom,2004,2004,2.32,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),GBR,United Kingdom,2005,2005,2.4,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),GBR,United Kingdom,2006,2006,2.45,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),GBR,United Kingdom,2007,2007,2.48,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),GBR,United Kingdom,2008,2008,2.57,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),GBR,United Kingdom,2009,2009,2.64,B,Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),GBR,United Kingdom,2010,2010,2.65,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),GBR,United Kingdom,2011,2011,2.69,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),GBR,United Kingdom,2012,2012,2.7,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),GBR,United Kingdom,2013,2013,2.71,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),GBR,United Kingdom,2014,2014,2.75,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),GBR,United Kingdom,2015,2015,2.77,B,Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),GBR,United Kingdom,2016,2016,2.78,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),GBR,United Kingdom,2017,2017,2.81,E,Estimated value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),GBR,United Kingdom,2018,2018,2.85,P,Provisional value
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),USA,United States,2000,2000,2.29,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),USA,United States,2001,2001,2.35,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),USA,United States,2002,2002,2.35,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),USA,United States,2003,2003,2.38,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),USA,United States,2004,2004,2.39,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),USA,United States,2005,2005,2.43,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),USA,United States,2006,2006,2.42,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),USA,United States,2007,2007,2.43,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),USA,United States,2008,2008,2.44,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),USA,United States,2009,2009,2.44,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),USA,United States,2010,2010,2.43,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),USA,United States,2011,2011,2.46,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),USA,United States,2012,2012,2.5,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),USA,United States,2013,2013,2.56,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),USA,United States,2014,2014,2.57,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),USA,United States,2015,2015,2.58,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),USA,United States,2016,2016,2.58,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),USA,United States,2017,2017,2.61,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BRA,Brazil,2000,2000,1.36,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BRA,Brazil,2001,2001,1.4,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BRA,Brazil,2002,2002,1.43,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BRA,Brazil,2003,2003,1.48,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BRA,Brazil,2004,2004,1.6,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BRA,Brazil,2005,2005,1.68,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BRA,Brazil,2006,2006,1.71,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BRA,Brazil,2007,2007,1.74,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BRA,Brazil,2008,2008,1.79,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BRA,Brazil,2009,2009,1.83,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),BRA,Brazil,2010,2010,1.82,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHN,China (People's Republic of),2000,2000,1.25,D,Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHN,China (People's Republic of),2001,2001,1.27,D,Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHN,China (People's Republic of),2002,2002,1.13,D,Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHN,China (People's Republic of),2003,2003,1.17,D,Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHN,China (People's Republic of),2004,2004,1.2,D,Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHN,China (People's Republic of),2005,2005,1.23,D,Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHN,China (People's Republic of),2006,2006,1.26,D,Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHN,China (People's Republic of),2007,2007,1.28,D,Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHN,China (People's Republic of),2008,2008,1.33,D,Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHN,China (People's Republic of),2009,2009,1.41,D,Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHN,China (People's Republic of),2010,2010,1.45,D,Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHN,China (People's Republic of),2011,2011,1.48,D,Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHN,China (People's Republic of),2012,2012,1.56,D,Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHN,China (People's Republic of),2013,2013,1.65,D,Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHN,China (People's Republic of),2014,2014,1.71,D,Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CHN,China (People's Republic of),2015,2015,1.8,D,Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),EST,Estonia,2000,2000,3.13,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),EST,Estonia,2001,2001,3.06,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),EST,Estonia,2002,2002,3.09,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),EST,Estonia,2003,2003,3.12,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),EST,Estonia,2004,2004,3.18,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),EST,Estonia,2005,2005,3.15,B,Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),EST,Estonia,2006,2006,3.18,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),EST,Estonia,2007,2007,3.26,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),EST,Estonia,2008,2008,3.34,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),EST,Estonia,2009,2009,3.28,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),EST,Estonia,2010,2010,3.24,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),EST,Estonia,2011,2011,3.29,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),EST,Estonia,2012,2012,3.28,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),EST,Estonia,2013,2013,3.33,B,Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),EST,Estonia,2014,2014,3.36,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),EST,Estonia,2015,2015,3.41,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),EST,Estonia,2016,2016,3.46,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),EST,Estonia,2017,2017,3.47,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),IND,India,2000,2000,0.53,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),IND,India,2001,2001,0.54,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),IND,India,2002,2002,0.56,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),IND,India,2003,2003,0.56,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),IND,India,2004,2004,0.57,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),IND,India,2005,2005,0.59,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),IND,India,2006,2006,0.6,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),IND,India,2007,2007,0.62,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),IND,India,2008,2008,0.64,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),IND,India,2009,2009,0.65,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),IND,India,2010,2010,0.69,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),IND,India,2011,2011,0.74,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),IND,India,2012,2012,0.7,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),IND,India,2013,2013,0.72,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),IND,India,2014,2014,0.73,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),IDN,Indonesia,2012,2012,0.31,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),IDN,Indonesia,2013,2013,0.32,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISR,Israel,2000,2000,3.45,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISR,Israel,2001,2001,3.27,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISR,Israel,2002,2002,3.28,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISR,Israel,2003,2003,3.36,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISR,Israel,2004,2004,3.34,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISR,Israel,2005,2005,3.22,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISR,Israel,2006,2006,3.21,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISR,Israel,2007,2007,3.28,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISR,Israel,2008,2008,3.42,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISR,Israel,2009,2009,3.46,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISR,Israel,2010,2010,3.32,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISR,Israel,2011,2011,3.26,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISR,Israel,2012,2012,2.97,B,Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISR,Israel,2013,2013,2.94,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISR,Israel,2014,2014,2.98,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISR,Israel,2015,2015,3.07,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISR,Israel,2016,2016,3.08,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ISR,Israel,2017,2017,3.14,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),RUS,Russia,2000,2000,4.64,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),RUS,Russia,2001,2001,4.64,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),RUS,Russia,2002,2002,4.7,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),RUS,Russia,2003,2003,4.75,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),RUS,Russia,2004,2004,4.79,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),RUS,Russia,2005,2005,4.82,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),RUS,Russia,2006,2006,4.93,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),RUS,Russia,2007,2007,4.98,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),RUS,Russia,2008,2008,4.96,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),RUS,Russia,2009,2009,5.01,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),RUS,Russia,2010,2010,5.03,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),RUS,Russia,2011,2011,4.25,B,Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),RUS,Russia,2012,2012,4.03,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),RUS,Russia,2013,2013,4.02,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),RUS,Russia,2014,2014,4.15,B,Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),RUS,Russia,2015,2015,3.9,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),RUS,Russia,2016,2016,3.94,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),RUS,Russia,2017,2017,4.04,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SVN,Slovenia,2000,2000,2.15,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SVN,Slovenia,2001,2001,2.17,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SVN,Slovenia,2002,2002,2.23,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SVN,Slovenia,2003,2003,2.25,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SVN,Slovenia,2004,2004,2.3,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SVN,Slovenia,2005,2005,2.35,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SVN,Slovenia,2006,2006,2.36,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SVN,Slovenia,2007,2007,2.39,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SVN,Slovenia,2008,2008,2.4,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SVN,Slovenia,2009,2009,2.41,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SVN,Slovenia,2010,2010,2.43,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SVN,Slovenia,2011,2011,2.49,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SVN,Slovenia,2012,2012,2.54,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SVN,Slovenia,2013,2013,2.63,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SVN,Slovenia,2014,2014,2.77,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SVN,Slovenia,2015,2015,2.83,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SVN,Slovenia,2016,2016,3.01,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),SVN,Slovenia,2017,2017,3.1,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ZAF,South Africa,2007,2007,0.7,D,Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ZAF,South Africa,2008,2008,0.7,D,Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ZAF,South Africa,2009,2009,0.71,D,Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ZAF,South Africa,2010,2010,0.73,D,Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ZAF,South Africa,2011,2011,0.73,D,Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ZAF,South Africa,2012,2012,0.73,D,Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ZAF,South Africa,2013,2013,0.75,D,Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ZAF,South Africa,2014,2014,0.76,D,Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),ZAF,South Africa,2015,2015,0.79,D,Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LVA,Latvia,2000,2000,2.88,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LVA,Latvia,2001,2001,2.69,B,Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LVA,Latvia,2002,2002,2.79,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LVA,Latvia,2003,2003,2.83,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LVA,Latvia,2004,2004,2.92,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LVA,Latvia,2005,2005,2.96,B,Break
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LVA,Latvia,2006,2006,3.03,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LVA,Latvia,2007,2007,3.14,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LVA,Latvia,2008,2008,3.23,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LVA,Latvia,2009,2009,3.15,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LVA,Latvia,2010,2010,3.11,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LVA,Latvia,2011,2011,3.13,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LVA,Latvia,2012,2012,3.14,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LVA,Latvia,2013,2013,3.19,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LVA,Latvia,2014,2014,3.22,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LVA,Latvia,2015,2015,3.2,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LVA,Latvia,2016,2016,3.21,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LVA,Latvia,2017,2017,3.21,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),COL,Colombia,2000,2000,1.23,E; D,Estimated value; Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),COL,Colombia,2001,2001,1.25,E; D,Estimated value; Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),COL,Colombia,2002,2002,1.29,E; D,Estimated value; Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),COL,Colombia,2003,2003,1.32,E; D,Estimated value; Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),COL,Colombia,2004,2004,1.36,E; D,Estimated value; Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),COL,Colombia,2005,2005,1.41,E; D,Estimated value; Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),COL,Colombia,2006,2006,1.45,E; D,Estimated value; Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),COL,Colombia,2007,2007,1.49,E; D,Estimated value; Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),COL,Colombia,2008,2008,1.54,E; D,Estimated value; Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),COL,Colombia,2009,2009,1.59,E; D,Estimated value; Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),COL,Colombia,2010,2010,1.64,E; D,Estimated value; Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),COL,Colombia,2011,2011,1.7,E; D,Estimated value; Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),COL,Colombia,2012,2012,1.75,E; D,Estimated value; Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),COL,Colombia,2013,2013,1.82,E; D,Estimated value; Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),COL,Colombia,2014,2014,1.89,E; D,Estimated value; Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),COL,Colombia,2015,2015,1.95,E; D,Estimated value; Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),COL,Colombia,2016,2016,2.01,E; D,Estimated value; Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),COL,Colombia,2017,2017,2.09,E; D,Estimated value; Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),COL,Colombia,2018,2018,2.18,E; D,Estimated value; Difference in methodology
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LTU,Lithuania,2000,2000,3.63,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LTU,Lithuania,2001,2001,3.63,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LTU,Lithuania,2002,2002,3.7,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LTU,Lithuania,2003,2003,3.67,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LTU,Lithuania,2004,2004,3.63,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LTU,Lithuania,2005,2005,3.72,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LTU,Lithuania,2006,2006,3.79,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LTU,Lithuania,2007,2007,3.88,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LTU,Lithuania,2008,2008,3.88,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LTU,Lithuania,2009,2009,3.85,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LTU,Lithuania,2010,2010,3.95,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LTU,Lithuania,2011,2011,4.1,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LTU,Lithuania,2012,2012,4.22,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LTU,Lithuania,2013,2013,4.28,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LTU,Lithuania,2014,2014,4.31,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LTU,Lithuania,2015,2015,4.34,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LTU,Lithuania,2016,2016,4.47,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),LTU,Lithuania,2017,2017,4.56,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CRI,Costa Rica,2006,2006,2.07,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CRI,Costa Rica,2007,2007,2.12,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CRI,Costa Rica,2008,2008,2.19,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CRI,Costa Rica,2009,2009,2.24,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CRI,Costa Rica,2010,2010,2.33,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CRI,Costa Rica,2011,2011,2.39,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CRI,Costa Rica,2012,2012,2.48,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CRI,Costa Rica,2013,2013,2.56,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CRI,Costa Rica,2014,2014,2.66,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CRI,Costa Rica,2015,2015,2.74,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CRI,Costa Rica,2016,2016,2.85,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CRI,Costa Rica,2017,2017,2.95,,
+PHYSMEDE,Practising physicians,DENSPPNB,Density per 1 000 population (head counts),CRI,Costa Rica,2018,2018,3.07,,
